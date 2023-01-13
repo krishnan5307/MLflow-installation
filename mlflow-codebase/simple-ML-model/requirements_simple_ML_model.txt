@@ -1,0 +1,7 @@
+mlflow
+scikit-learn
+pandas
+sklearn
+numpy==1.21
+urllib
+Flask==2.1.0

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/data%20science/Internship%20projects/MLflow-installation/mlruns/0/8c70fb034ba846d3b62f307a1776244e/artifacts
+end_time: 1673449157490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c70fb034ba846d3b62f307a1776244e
+run_name: wise-shoat-549
+run_uuid: 8c70fb034ba846d3b62f307a1776244e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673449157421
+status: 3
+tags: []
+user_id: krish
